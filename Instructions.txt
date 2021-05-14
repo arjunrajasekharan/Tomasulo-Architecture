@@ -1,0 +1,6 @@
+ADD R11 R10 R10         
+MUL R12 R0 R1           
+FADD R13 R12 R8         
+FMUL R14 R2 R4
+LD R15 R12              
+ST R8 R12                     
