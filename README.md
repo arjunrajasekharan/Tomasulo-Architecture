@@ -11,7 +11,7 @@ Instruction format is given in instructions.txt.
 - Python3
 - Verilog
 
-# Register and Memory data (Input) 
+# Register data (Input) 
 ```
  Registers.list[0].data = '10'
  Registers.list[1].data = '11'
