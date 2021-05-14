@@ -1,8 +1,6 @@
 # Tomasulo-Architecture
 Simulation of the Tomasulo algorithm using python and verilog.
-
 Python code has been included to simulate dynamic instruction scheduling.
-
 This project was done as the part of Computer Architecture course.
 
 Instruction format is given in instructions.txt.
